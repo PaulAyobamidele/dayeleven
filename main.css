@@ -25,6 +25,7 @@ body {
     font-weight: bold;
     flex-direction: column;
     margin: 10px;
+    padding: 20px;
     min-width: 150px;
     position: relative;
 }
